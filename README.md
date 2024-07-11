@@ -1,18 +1,24 @@
 # Java CRM
 
 ## Description
-This Java application serves as a customer relationship management (CRM) system. It allows users to add, update, and remove customer data; manage appointments in a calendar; and run reports on appointment data.
+This Java application is a comprehensive Customer Relationship Management (CRM) system designed to streamline customer data management, appointment scheduling, and report generation. It allows users to add, update, and delete customer records, organize appointments within a calendar, and run detailed analytics on appointment data.
 
-This application was developed to fulfill the requirements for an Advanced Java Concepts academic project at WGU. It demonstrates database and file server application development skills. The application incorporates lambda expressions; advanced exception control mechanisms to improve user experience and application stability; localization and date/time APIs to support end-users in various geographical regions; and streams and filters to manipulate data more efficiently.
+Developed as part of an Advanced Java Concepts project at WGU, this application demonstrates advanced skills in database and file server application development. Key features include:
+- **Lambda Expressions**: Simplifying code and enhancing performance.
+- **Advanced Exception Handling**: Providing a stable and user-friendly experience.
+- **Localization and Date/Time APIs**: Supporting users across various geographical regions.
+- **Streams and Filters**: Enabling efficient data manipulation and processing.
 
 ## Installation
-Prerequisites:
-* Download and install [Java Runtime Environment (JRE) 8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html) or higher
 
-Steps:
-1.	Install the prerequisite applications
-2.	Download [dist.zip file](dist.zip)
-3.	Extract files and run java-crm.jar
+### Prerequisites:
+- Download and install [Java Runtime Environment (JRE) 8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html) or higher.
+
+### Steps:
+1. Ensure that the prerequisite applications are installed.
+2. Download the [dist.zip file](dist.zip).
+3. Extract the files from the ZIP archive.
+4. Run the `java-crm.jar` file to launch the application.
 
 ## Using the Application
 The login screen will appear upon starting the application.
@@ -25,25 +31,17 @@ Enter your credentials and click the “Login” button. Once logged in, the men
 
 Use the buttons to navigate to other screens where you can view/manage customers, appointments, or reports.
 
-![View Customers Screen](img/customer-list-screen.png)
-
-![Add Customers](img/add-customer-screen.png)
-
-![View Appointments Screen](img/calendar-screen.png)
-
-![Add Appointments](img/add-appointment-screen.png)
-
-![Reports Screen](img/reports-screen.png)
-
-
 ## Future Improvements
-* Optimize colors and fonts for improved accessibility
-* Improve design of reports screen
-* Add ability to download/save reports
-* Add section to README outlining how to test localization settings
-* Add more detail to README under "Using the Application" section:
-  * Explain screenshots
-  * Explain required fields and input validation
+Here are some planned enhancements to make the application even better:
+- **Accessibility**: Optimize colors and fonts for better accessibility.
+- **Reports Design**: Improve the design and usability of the reports screen.
+- **Report Downloads**: Add functionality to download and save reports.
+- **Localization Testing**: Include a section in the README for testing localization settings.
+- **Detailed Documentation**: Expand the "Using the Application" section with more detailed explanations of screenshots, required fields, and input validation.
 
 ## Project Status
-This project was created for an academic course. Development will be discontinued for the foreseeable future.
+This project was developed as part of an EazyByts Infotech Full Stack Java Developer Internship assignment.
+
+---
+
+Coded by - Vishvendra Singh
