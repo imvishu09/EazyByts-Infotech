@@ -20,17 +20,6 @@ Developed as part of an Advanced Java Concepts project at WGU, this application 
 3. Extract the files from the ZIP archive.
 4. Run the `java-crm.jar` file to launch the application.
 
-## Using the Application
-The login screen will appear upon starting the application.
-
-![Login Screen](img/login-screenshot.png)
-
-Enter your credentials and click the “Login” button. Once logged in, the menu will appear.
-
-![Menu Screen](img/menu-screen.png)
-
-Use the buttons to navigate to other screens where you can view/manage customers, appointments, or reports.
-
 ## Future Improvements
 Here are some planned enhancements to make the application even better:
 - **Accessibility**: Optimize colors and fonts for better accessibility.
